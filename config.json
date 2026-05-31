@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervtringify",
+        "uuid": 9438930,
+        "checksum": "5jnzwi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
